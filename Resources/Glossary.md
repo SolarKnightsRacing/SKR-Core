@@ -1,0 +1,27 @@
+This glossary avoids redundancy by not including common definitions or definitions that can be found in the regulations
+- ADR
+- ADL
+- Minutes
+- DAQ
+- 
+- SKR
+- FSGP
+- ASC
+- 
+- SGA
+- OSI
+- RSO
+- 501(c)3
+- Git
+- GitHub
+- Readme
+- License
+- Attribution
+- Blame
+- PR
+- Issue
+- Commit
+- Markdown.md
+- Metadata
+- YAML
+- 
