@@ -1,0 +1,52 @@
+- All officers
+	- Minutes
+	- Upholding the standards of the club and other officers
+- President
+	- Primary Public representation
+	- RSO/OSI paperwork and registration
+	- Organize and assist with officer duties
+	- Keep advisor informed of activities and functions
+	- financial signer
+- Vice-President
+	- Assist president
+	- Organize meetings
+	- Audit of financial transaction
+	- Organize lodging and transportation
+	- assist in special projects
+	- financial signer
+- Treasurer / Business Director
+	- Funds
+	- financial signer
+	- BOM
+	- budget
+	- financial record
+	- monthly budget and spending report for RSO
+	- Collect and track Dues
+	- Legal financial documents (501c3)
+- Secretary / Director of Data Acquisition
+	- Notify about meetings
+	- Record of members
+	- Assist with fundraising
+	- Meeting presentations
+	- Meeting minutes
+	- Meeting summaries
+- Parliamentarian
+	- Responsible for rro
+	- Chapter education
+	- advise parliamentary procedure 
+	- Rso stuff
+- Reporter / Outreach Lead
+	- Social media
+	- Partner relations
+	- Fundraising
+	- Socials
+- Technical Director
+	- Ensures regulation compliance 
+	- Oversees subsystem integration
+	- Tie breaker / mediator
+- Safety Officer
+	- Designated safety officer at the event
+- Subsystem Lead
+	- Responsible for successful operation of the subsystem
+	- Tie breaker / mediator
+	- Track progress
