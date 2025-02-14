@@ -11,7 +11,7 @@ We're thrilled to have you join our community. {add something} Treat this docume
 2. GitHub
 	1. Why Git?
 	2. Why GitHub?
-	3. How does Knights racing use Github?
+	3. How does Solar Knights racing use Github?
 	4. Making your first pull request
 3. Resources
 	1. ASC/FSGP regulations
