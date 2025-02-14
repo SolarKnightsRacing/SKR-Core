@@ -6,6 +6,9 @@
 - folders and files:Train-Case
 - properties: snake_case
 - GitHub files: one word ALLCAPS
+- Branch naming
+	- ADRs:
+		- ADR#### e.g. ADR0001
 - Simple commits:
 	- Creating a file
 		- Add {filename}.{Extention} ({optional description})
