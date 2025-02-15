@@ -3,7 +3,7 @@ parent: SKR26
 nav_order: 1
 title: Vehicle Class Decision
 status: accepted
-date: 2024-01-31T17-00-00-05
+date: 2025-01-31T17:00:00
 decision_makers:
   - President
   - Vice_President
