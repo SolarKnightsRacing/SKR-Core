@@ -56,6 +56,7 @@ The following list outlines the major responsibilities of each subsystem:
 	* Suspension
 	* Steering
 	* Brakes
+ 	* Brake pedal
 	* Power-train
 * **Chassis**
 	* Chassis 
@@ -93,7 +94,6 @@ The following list outlines the major responsibilities of each subsystem:
 		* Belly pan
 		* Outside air circulation
 		* Occupant vision
-		* Brake pedal 
 		* Parking brake actuator
 		* Steering wheel
 		* Ballast box
