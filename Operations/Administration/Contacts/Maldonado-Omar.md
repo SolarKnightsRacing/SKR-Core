@@ -1,6 +1,6 @@
 ---
-First_Name: Omar
-Last_Name: Maldonado
+First Name: Omar
+Last Name: Maldonado
 Nickname: Omar
 Phone: (469) 352-4348
 Email: omaldonado2024@gmail.com
