@@ -2,7 +2,7 @@
 firstname: Omar
 lastname: Maldonado
 nickname: Omar
-phone: (469) 352-4383
+phone: (469) 352-4348
 email: omaldonado2024@gmail.com
 NID: om54118
 github: om1617
