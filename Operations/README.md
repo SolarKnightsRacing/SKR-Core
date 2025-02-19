@@ -1,0 +1,1 @@
+The operations directory is for divisions of the club that are not associated with a specific vehicle.

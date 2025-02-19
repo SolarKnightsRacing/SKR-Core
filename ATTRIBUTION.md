@@ -1,4 +1,4 @@
 Licensed Material: Repository contents of SKR-General.
 Creator/Owner: UCF Solar Knights Racing
-Source: [https://github.com/SolarKnightsRacing/SKR-General/issues/1](https://github.com/SolarKnightsRacing/SKR-General/issues/1)
+Source: [https://github.com/SolarKnightsRacing/SKR-Core](https://github.com/SolarKnightsRacing/SKR-Core/)
 Year: 2025

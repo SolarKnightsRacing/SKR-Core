@@ -1,0 +1,1 @@
+The Administration directory is for club-oriented documentation.
