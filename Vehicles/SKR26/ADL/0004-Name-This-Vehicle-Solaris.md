@@ -6,7 +6,7 @@ status: accepted
 date: 2025-02-19T11:53:00-05
 decision_makers:
   - Everyone
-consulted: 
+consulted:
 informed:
   - Everyone
 ---

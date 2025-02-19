@@ -7,7 +7,7 @@ date: 2025-02-19T09:50:00-05
 decision_makers:
   - President
   - Technical_Director
-consulted: 
+consulted:
 informed:
   - Everyone
 ---
