@@ -38,4 +38,4 @@ Chosen option: **Solaris** based on popular vote
 Rejected: Suffix YY based how the majority of teams name their vehicles
 ### Confirmation
 
-Implementation: All official naming of this vehicle thus far and from now on will go by Solaris
+Implementation: All official naming of this vehicle thus far and from now on will go by Solaris.
