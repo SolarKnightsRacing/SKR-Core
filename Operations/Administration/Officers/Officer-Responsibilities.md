@@ -14,7 +14,7 @@ The Vice President is one of the three financial signers.
 
 ## Treasurer / Business Director
 
-The Treasurer must track all club funds and expenses, maintaining an auditable financial history. The Treasurer is responsible for generating monthly budget and spending reports. The Treasurer must maintain a Bill of Materials for each vehicle with the help of subsystem leads. The Treasurer must collect and track member dues. The Treasurer must provide necessary financial documentation to maintain the club’s non-profit status.
+The Treasurer must track all club funds and expenses, maintaining an auditable financial history. The Treasurer is responsible for generating budget and spending reports monthly. The Treasurer must maintain a Bill of Materials for each vehicle with the help of subsystem leads. The Treasurer must collect and track member dues. The Treasurer must provide necessary financial documentation to maintain the club’s non-profit status.
 The Treasurer is one of the three financial signers.
 
 ## Secretary / Director of Data Acquisition
@@ -31,7 +31,7 @@ The Reporter must manage the club's social media presence. The Reporter is respo
 
 ## Technical Director
 
-The Technical Director is responsible for ensuring the entire car complies with all rules and regulations. The Technical Director oversees subsystem integration. The Technical Director should act as a mediator in the event of a disagreement between subsystems.
+The Technical Director is responsible for ensuring the entire car complies with the regulations. The Technical Director oversees subsystem integration. The Technical Director should act as a mediator in the event of a disagreement between subsystems.
 
 ## Safety Officer
 
@@ -39,4 +39,4 @@ The Safety Officer must be registered and present at all events requiring a desi
 
 ## Subsystem Lead
 
-Each Subsystem Lead is responsible for the successful operation of their respective subsystem. Each Subsystem Lead should act as a mediator in the event of a disagreement within their subsystem. Each Subsystem Lead is responsible for tracking their subsystem’s progress and identifying any obstacles to progress. Both must be reported to the Secretary before each meeting.
+Each Subsystem Lead is responsible for the successful operation of their respective subsystem. Each Subsystem Lead should act as a mediator in the event of a disagreement within their subsystem. Each Subsystem Lead is responsible for tracking their subsystem’s progress and identifying any obstacles. Progress and Obstacles must be reported to the Secretary before each meeting.
