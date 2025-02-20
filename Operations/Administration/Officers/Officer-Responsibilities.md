@@ -1,52 +1,42 @@
-- All officers
-	- Minutes
-	- Upholding the standards of the club and other officers
-- President
-	- Primary Public representation
-	- RSO/OSI paperwork and registration
-	- Organize and assist with officer duties
-	- Keep advisor informed of activities and functions
-	- financial signer
-- Vice-President
-	- Assist president
-	- Organize meetings
-	- Audit of financial transaction
-	- Organize lodging and transportation
-	- assist in special projects
-	- financial signer
-- Treasurer / Business Director
-	- Funds
-	- financial signer
-	- BOM
-	- budget
-	- financial record
-	- monthly budget and spending report for RSO
-	- Collect and track Dues
-	- Legal financial documents (501c3)
-- Secretary / Director of Data Acquisition
-	- Notify about meetings
-	- Record of members
-	- Assist with fundraising
-	- Meeting presentations
-	- Meeting minutes
-	- Meeting summaries
-- Parliamentarian
-	- Responsible for rro
-	- Chapter education
-	- advise parliamentary procedure 
-	- Rso stuff
-- Reporter / Outreach Lead
-	- Social media
-	- Partner relations
-	- Fundraising
-	- Socials
-- Technical Director
-	- Ensures regulation compliance 
-	- Oversees subsystem integration
-	- Tie breaker / mediator
-- Safety Officer
-	- Designated safety officer at the event
-- Subsystem Lead
-	- Responsible for successful operation of the subsystem
-	- Tie breaker / mediator
-	- Track progress
+## All Officers
+
+All officers must uphold the standards of the club and ensure that their fellow officers do the same. All officers must fill out their section in the meeting minutes, detailing the topics they will discuss along with an estimated duration. This must be completed before each meeting.
+
+## President
+
+The President is the primary public representative of the club. The President is responsible for communicating with the SGA, the OSI, and the faculty advisor. The President is solely responsible for the re-registration of the club [per OSI requirements](https://osi.ucf.edu/rso/#reregistering-an-rso). The President must help organize and assist with officer duties.
+The President is one of the three financial signers.
+
+## Vice President
+
+The primary responsibility of the Vice President is to assist the President with all endeavors. The Vice President must schedule general body meetings. The Vice President is responsible for auditing financial transactions. The Vice President must organize lodging and transportation for events. The Vice President must assist in special projects.
+The Vice President is one of the three financial signers.
+
+## Treasurer / Business Director
+
+The Treasurer must track all club funds and expenses, maintaining an auditable financial history. The Treasurer is responsible for generating budget and spending reports monthly. The Treasurer must maintain a Bill of Materials for each vehicle with the help of subsystem leads. The Treasurer must collect and track member dues. The Treasurer must provide necessary financial documentation to maintain the club’s non-profit status.
+The Treasurer is one of the three financial signers.
+
+## Secretary / Director of Data Acquisition
+
+The Secretary must announce meetings and ensure meeting minutes are complete. The Secretary is responsible for making meeting presentations and completing meeting summaries.
+
+## Parliamentarian
+
+The Parliamentarian must assist the President in maintaining RSO status. The Parliamentarian must advise officers and members on parliamentary procedures.
+
+## Reporter / Outreach Lead
+
+The Reporter must manage the club's social media presence. The Reporter is responsible for communicating with partners. The Reporter is responsible for organizing fundraising events.
+
+## Technical Director
+
+The Technical Director is responsible for ensuring the entire car complies with the regulations. The Technical Director oversees subsystem integration. The Technical Director should act as a mediator in the event of a disagreement between subsystems.
+
+## Safety Officer
+
+The Safety Officer must be registered and present at all events requiring a designated safety officer. The Safety Officer must maintain a valid CPR certification.
+
+## Subsystem Lead
+
+Each Subsystem Lead is responsible for the successful operation of their respective subsystem. Each Subsystem Lead should act as a mediator in the event of a disagreement within their subsystem. Each Subsystem Lead is responsible for tracking their subsystem’s progress and identifying any obstacles. Progress and Obstacles must be reported to the Secretary before each meeting.
