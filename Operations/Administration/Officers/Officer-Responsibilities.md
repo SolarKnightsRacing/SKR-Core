@@ -17,7 +17,7 @@ The Vice President is one of the three financial signers.
 The Treasurer must track all club funds and expenses, maintaining an auditable financial history. The Treasurer is responsible for generating budget and spending reports monthly. The Treasurer must maintain a Bill of Materials for each vehicle with the help of subsystem leads. The Treasurer must collect and track member dues. The Treasurer must provide necessary financial documentation to maintain the club’s non-profit status.
 The Treasurer is one of the three financial signers.
 
-## Secretary / Director of Data Acquisition
+## Secretary / DAQ
 
 The Secretary must announce meetings and ensure meeting minutes are complete. The Secretary is responsible for making meeting presentations and completing meeting summaries.
 
