@@ -1,1 +1,2 @@
-The operations directory is for divisions of the club that are not associated with a specific vehicle.
+# Operations README
+This section manages documentation for administrative, business, and outreach efforts, including meeting records, officer responsibilities, and external partnerships.

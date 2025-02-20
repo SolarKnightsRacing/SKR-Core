@@ -1,1 +1,2 @@
-The Administration directory is for club-oriented documentation.
+# Administration README
+Holds contact details, meeting summaries, officer responsibilities, and regulatory documents.
