@@ -1,0 +1,44 @@
+- GitHub introduction
+	- Stop
+	- Yt vid
+- Design
+	- Aero discussion
+		- Flat top minimal aerodynamic consideration
+	- Vehicle body
+		- Solar canopy discussion
+			- Metal vs composite
+		- Cockpit discussion
+			- Metal vs composite
+		- Chassis construction
+			- Tube frame no composite
+	- Solar cells
+		- Laminated
+			- Price?
+			- durability?
+		- Non-Laminated
+			- Must laminate -> $
+			- Price?
+			- durability?
+	- Wheels
+		- Build or buy
+	- Motors
+		- Hub
+			- 1 count
+				- Solar Gators uses
+				- Seems Unbalanced
+				- Light
+			- 2 count
+				- expensive
+				- mechanically redundant
+				- Heavy
+				- Two Inverter circuits
+				- Presumably less efficient
+			- Unsprung weight
+		- Inboard
+			- Complex
+			- Drivetrain loses
+			- Heavy
+			- Sprung weight
+	- Suspension
+		- Rear trailing arm
+- Vehicle naming brainstorm
