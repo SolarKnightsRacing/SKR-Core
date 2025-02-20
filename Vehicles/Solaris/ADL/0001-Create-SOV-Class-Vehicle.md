@@ -1,5 +1,5 @@
 ---
-parent: SKR26
+parent: Solaris
 nav_order: 1
 title: Vehicle Class Decision
 status: accepted
