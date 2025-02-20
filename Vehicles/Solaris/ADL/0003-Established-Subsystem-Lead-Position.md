@@ -1,5 +1,5 @@
 ---
-parent: SKR26
+parent: Solaris
 nav_order: 3
 title: Established Subsystem Lead Position
 status: accepted
