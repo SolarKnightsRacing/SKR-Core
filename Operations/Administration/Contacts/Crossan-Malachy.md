@@ -7,6 +7,6 @@ email: malachycrossan@gmail.com
 NID: ma378458
 github: malachycrossan
 discord: malachy_c
-linkedin: https://www.linkedin.com/in/Firstname-Lastname-ucf/
+linkedin: www.linkedin.com/in/malachy-crossan-2a9574259
 contact_type: member
 ---
