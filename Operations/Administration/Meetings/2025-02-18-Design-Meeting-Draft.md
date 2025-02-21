@@ -1,16 +1,19 @@
-- GitHub introduction
-	- Stop
-	- Yt vid
 - Design
 	- Aero discussion
 		- Flat top minimal aerodynamic consideration
 	- Vehicle body
 		- Solar canopy discussion
-			- Metal vs composite
+			- Metal extrusion
+				- Strong
+				- weldable
+			- vs Composite
+				- Light
+				- Flat shape means it won't be too difficult to manufacture
 		- Cockpit discussion
-			- Metal vs composite
+			- Triangulated tube roll cage and lower occupant cell
+			- Composite shell for aerodynamics, safety and rules compliance
 		- Chassis construction
-			- Tube frame no composite
+			- Tube chassis
 	- Solar cells
 		- Laminated
 			- Price?
@@ -20,7 +23,15 @@
 			- Price?
 			- durability?
 	- Wheels
-		- Build or buy
+		- Build
+			- Most teams use cnc milling process on aluminum
+			  aka expensive
+			- better suited for hub motors
+			- what other possible manufacturing methods are there?
+			- Lightweight
+		- Vs buy
+			- saves a lot of time
+			- might not find the right wheels
 	- Motors
 		- Hub
 			- 1 count
