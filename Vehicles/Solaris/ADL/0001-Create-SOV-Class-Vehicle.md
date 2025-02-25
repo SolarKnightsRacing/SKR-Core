@@ -33,13 +33,13 @@ We must choose which Vehicle Class to build. The regulations are slightly differ
 
 ## Considered Options
 
-* Single Occupancy Vehicle (SOV)
-* Multiple Occupancy Vehicle (MOV)
-* Demonstration (DEMO)
+* [Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle#Single%20Occupancy%20Vehicle%20(SOV))
+* [Multiple Occupancy Vehicle (MOV)](0001-Create-SOV-Class-Vehicle#Multiple%20Occupancy%20Vehicle%20(MOV))
+* [Demonstration (DEMO)](0001-Create-SOV-Class-Vehicle#Demonstration%20(DEMO))
 
 ## Decision Outcome
 
-Chosen option: "Single Occupancy Vehicle (SOV)", because it is the cheaper and simpler design to build.
+Chosen option: "[Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle#Single%20Occupancy%20Vehicle%20(SOV))", because it is the cheaper and simpler design to build.
 
 ### Consequences
 
