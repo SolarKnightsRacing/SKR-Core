@@ -18,7 +18,7 @@ informed:
 ## Context and Problem Statement
 
 #### ASC2026_Regulations_RevisionA
->**7. Vehicle Classes**
+>[**7. Vehicle Classes**](ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13|ASC2026_Regulations_RevisionA, page 24)
 >Three (3) classes of solar vehicle will be recognized as part of the Event:
 > * Single-Occupant
 > * Multi-Occupant
@@ -52,7 +52,7 @@ Chosen option: "Single Occupancy Vehicle (SOV)", because it is the cheaper and s
 ### Single Occupancy Vehicle (SOV)
 
 #### ASC2026_Regulations_RevisionA
->**7.1.A** Single-Occupant (SOV)
+>[**7.1.A** Single-Occupant (SOV)](ASC2026_Regulations_RevisionA.pdf#page=24&selection=28,0,34,69|ASC2026_Regulations_RevisionA, page 24)
 >This class comprises solar powered vehicles designed for a single-occupant. These vehicles are akin to the “Challenger” class of vehicles from the World Solar Challenge.
 
 * Good, because it is simple
@@ -62,7 +62,7 @@ Chosen option: "Single Occupancy Vehicle (SOV)", because it is the cheaper and s
 ### Multiple Occupancy Vehicle (MOV)
 
 #### ASC2026_Regulations_RevisionA
->**7.1.B Multi-Occupant (MOV)**
+>[**7.1.B Multi-Occupant (MOV)**](ASC2026_Regulations_RevisionA.pdf#page=24&selection=36,0,42,84|ASC2026_Regulations_RevisionA, page 24)
 >This class comprises solar powered and grid-charge vehicles designed for multiple-occupants. These vehicles are akin to the “Cruiser” class of vehicles from the World Solar Challenge.
 
 * Good, because of the ability to grid-charge the vehicle
@@ -72,7 +72,7 @@ Chosen option: "Single Occupancy Vehicle (SOV)", because it is the cheaper and s
 ### Demonstration (DEMO)
 
 #### ASC2026_Regulations_RevisionA
->**7.1.C Demonstration (DEMO)**
+>[**7.1.C Demonstration (DEMO)**](ASC2026_Regulations_RevisionA.pdf#page=24&selection=44,0,68,86|ASC2026_Regulations_RevisionA, page 24)
 >**7.1.C.1** Vehicles in this class must have entered, passed Scrutineering, and qualified for ASC, FSGP or another recognized solar car event within four calendar years prior to the current Event, OR, they must be designed to released Regulations for an upcoming solar car event.
 >**7.1.C.2** At Scrutineering, vehicles in this class will be inspected to the Regulation set they were designed to and will be subject to additional regulations associated with safety from the Single-Occupant and Multi-Occupant class vehicle technical Regulations.
 >**7.1.C.3** This class is Demonstration only. Vehicles in this class will not be scored or ranked.
