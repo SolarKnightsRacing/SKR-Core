@@ -4,7 +4,7 @@ All officers must uphold the standards of the club and ensure that their fellow 
 
 ## President
 
-The President is the primary public representative of the club. The President is responsible for communicating with the SGA, the OSI, and the faculty advisor. The President is solely responsible for the re-registration of the club [per OSI requirements](https://osi.ucf.edu/rso/#reregistering-an-rso). The President must help organize and assist with officer duties.
+The President is the primary public representative of the club. The President is responsible for communicating with the [SGA](Glossary#SGA), the [OSI](Glossary#OSI), and the faculty advisor. The President is solely responsible for the re-registration of the club [per OSI requirements](https://osi.ucf.edu/rso/#reregistering-an-rso). The President must help organize and assist with officer duties.
 The President is one of the three financial signers.
 
 ## Vice President
@@ -23,7 +23,7 @@ The Secretary must announce meetings and ensure meeting minutes are complete. Th
 
 ## Parliamentarian
 
-The Parliamentarian must assist the President in maintaining RSO status. The Parliamentarian must advise officers and members on parliamentary procedures.
+The Parliamentarian must assist the President in maintaining [RSO](Glossary#RSO) status. The Parliamentarian must advise officers and members on parliamentary procedures.
 
 ## Reporter / Outreach Lead
 
