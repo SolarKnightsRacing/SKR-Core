@@ -18,7 +18,7 @@ informed:
 ## Context and Problem Statement
 
 #### ASC2026_Regulations_RevisionA
->[**7. Vehicle Classes**](/Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13)  
+>[**7. Vehicle Classes**](../../../Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13)  
 >Three (3) classes of solar vehicle will be recognized as part of the Event:
 > * Single-Occupant
 > * Multi-Occupant
