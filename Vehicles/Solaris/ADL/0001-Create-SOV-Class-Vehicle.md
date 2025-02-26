@@ -33,7 +33,7 @@ We must choose which Vehicle Class to build. The regulations are slightly differ
 
 ## Considered Options
 
-* [Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle.md#single%20occupancy%20vehicle%20(sov))
+* [Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle.md#Single%20Occupancy%20Cehicle%20(Sov))
 * [Multiple Occupancy Vehicle (MOV)](/Vehicles/Solaris/ADL/0001-Create-SOV-Class-Vehicle.md#Multiple%20Occupancy%20Vehicle%20(MOV))
 * [Demonstration (DEMO)](/Vehicles/Solaris/ADL/0001-Create-SOV-Class-Vehicle.md#Demonstration%20(DEMO))
   
