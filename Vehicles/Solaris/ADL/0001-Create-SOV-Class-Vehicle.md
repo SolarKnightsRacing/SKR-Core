@@ -18,7 +18,7 @@ informed:
 ## Context and Problem Statement
 
 #### ASC2026_Regulations_RevisionA
->[**7. Vehicle Classes**](../../../Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13)  
+>[**7. Vehicle Classes**](/Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13)  
 >Three (3) classes of solar vehicle will be recognized as part of the Event:
 > * Single-Occupant
 > * Multi-Occupant
@@ -33,13 +33,13 @@ We must choose which Vehicle Class to build. The regulations are slightly differ
 
 ## Considered Options
 
-* [Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle.md#Single-Occupancy-Vehicle-Sov)
-* [Multiple Occupancy Vehicle (MOV)](/Vehicles/Solaris/ADL/0001-Create-SOV-Class-Vehicle.md#Multiple%20Occupancy%20Vehicle%20(MOV))
-* [Demonstration (DEMO)](/Vehicles/Solaris/ADL/0001-Create-SOV-Class-Vehicle.md#Demonstration%20(DEMO))
+* [Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle.md#Single-Occupancy-Vehicle-SOV)
+* [Multiple Occupancy Vehicle (MOV)](0001-Create-SOV-Class-Vehicle.md#Multiple-Occupancy-Vehicle-MOV)
+* [Demonstration (DEMO)](0001-Create-SOV-Class-Vehicle.md#Demonstration-DEMO)
   
 ## Decision Outcome
 
-Chosen option: "[Single Occupancy Vehicle (SOV)](/Vehicles/Solaris/ADL/0001-Create-SOV-Class-Vehicle.md#Single%20Occupancy%20Vehicle%20(SOV))", because it is the cheaper and simpler design to build.
+Chosen option: "[Single Occupancy Vehicle (SOV)](0001-Create-SOV-Class-Vehicle.md#Single-Occupancy-Vehicle-SOV)", because it is the cheaper and simpler design to build.
 
 ### Consequences
 
@@ -52,7 +52,7 @@ Chosen option: "[Single Occupancy Vehicle (SOV)](/Vehicles/Solaris/ADL/0001-Crea
 ### Single Occupancy Vehicle (SOV)
 
 #### ASC2026_Regulations_RevisionA
->[**7.1.A** Single-Occupant (SOV)](/Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=28,0,34,69)  
+>[**7.1.A** Single-Occupant (SOV)](/Resources/ASC2026_Regulations_RevisionA.pdf#page=24&selection=6,0,22,13)  
 >This class comprises solar powered vehicles designed for a single-occupant. These vehicles are akin to the “Challenger” class of vehicles from the World Solar Challenge.  
 * Good, because it is simple
 * Good, because it is cheap
