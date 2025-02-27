@@ -2,4 +2,4 @@
 usage-locations:
   - GitHub About section for SKR-Core
 ---
-Mono Repo for UCF Solar Knights Racing
+Core Repository for UCF Solar Knights Racing 
