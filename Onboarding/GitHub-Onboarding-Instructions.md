@@ -1,4 +1,4 @@
-![Watch the intro video by clicking here!](https://www.youtube.com/watch?v=kJdJhW9T1o8)
+[Watch the intro video by clicking here!](https://www.youtube.com/watch?v=kJdJhW9T1o8)
 ## Outline:
 1. Welcome! In this quick introduction to GitHub, I'll guide you through forking a repository, making a change, committing that change, and finally, creating a pull request to include your changes on the master branch.
 2. You'll be adding your contact card so that you can be an official contributor on the GitHub. While not all fields are required, providing as much information as you're comfortable with will help streamline communication. (you will see on the template that required fields are marked with asterisks) Once submitted, a reviewer will approve your pull request. Club members will receive edit privileges, allowing future changes without forking.
