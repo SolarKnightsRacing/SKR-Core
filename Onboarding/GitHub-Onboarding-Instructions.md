@@ -1,3 +1,4 @@
+![](https://www.youtube.com/watch?v=kJdJhW9T1o8)
 [Watch the intro video by clicking here!](https://www.youtube.com/watch?v=kJdJhW9T1o8)
 ## Outline:
 1. Welcome! In this quick introduction to GitHub, I'll guide you through forking a repository, making a change, committing that change, and finally, creating a pull request to include your changes on the master branch.
