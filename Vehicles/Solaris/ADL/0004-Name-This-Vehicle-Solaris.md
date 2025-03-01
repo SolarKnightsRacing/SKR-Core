@@ -21,7 +21,7 @@ We would like to name this vehicle. Currently the name is SKR26.
 * Create a sense of character for the vehicle
 * Unique both in the literal sense (no other cars exist with the same name) and in the figurative sense (not too cliche)
 ## Considered Options
-* **SKR**
+* [**SKR**](/Resources/Glossary.md#SKR)
 * **Pegasus**
 * **Northstar**
 * **Polaris**
