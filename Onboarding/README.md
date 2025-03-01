@@ -8,12 +8,12 @@ We're thrilled to have you join our community. {add something} Treat this docume
 	3. FSGP
 	4. Our Goals
 2. GitHub
-	1. Why Git?
-	2. Why GitHub?
-	3. Why Markdown?
-	4. How does Solar Knights racing use GitHub?
-	5. Making your first pull request
-	6. Learn more about using Github later
+	1. **Why Git?**
+	2. **Why GitHub?**
+	3. **Why Markdown?**
+	4. **How does Solar Knights racing use GitHub?**
+	5. **Making your first pull request**
+	6. **Learn more about using Github later**
 3. Resources
 	1. ASC/FSGP regulations
 	2. Glossary
