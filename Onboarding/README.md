@@ -37,8 +37,9 @@ From the American solar challenge website:
 2. **Why GitHub?**
 3. **Why Markdown?**
 4. **How does Solar Knights racing use GitHub?**
+	1. Our goal is to make the GitHub repository a comprehensive resource that captures nearly every aspect of the club—its structure, processes, and operations. A member's understanding should only limited by the time they spend exploring and understanding it.
 5. **Making your first pull request**
-6. **Learn more about using Github later**
+6. **Learn more about using Git and GitHub later**
 ## 3. Resources
 This repository
 The ASC regulations
