@@ -44,8 +44,8 @@ This command will upload the commits you have created on your local machine to t
 
 usage:
 #rect()[#raw(
-"git push origin {branch name} \n
-git push origin main \n
+"git push \n
+git push -u origin my-change-branch \n
 git push origin my-change-branch"
 )]
 
@@ -101,7 +101,7 @@ This command lists, creates, or deletes branches. With no other arguments, it wi
 
 usage:
 #rect()[#raw(
-"git bracnch \n
+"git branch \n
 git branch my-change-branch \n
 git branch -d my-change-branch"
 )]
@@ -161,6 +161,15 @@ git branch new-part
 git switch new-part
 git add .
 git commit -m "created a new part"
+git push -u origin new-branch
+
+== Finalizing a part's changes
+git switch new-part
+git lfs lock part1.SLDPRT
+include revisions from team members
+git add .
+git commit -m "Final changes to new part"
 git push
-== finalizing a part's changes
+git lfs unlock part1.SLDPRT
+
 == 
