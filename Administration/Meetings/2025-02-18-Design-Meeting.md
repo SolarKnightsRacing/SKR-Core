@@ -1,3 +1,11 @@
+---
+time_started: 2025-02-18
+time_adjourned: 2025-02-18
+location: MSB
+group: general_body
+doc_type: notes
+---
+
 - Design
 	- Aero discussion
 		- Flat top minimal aerodynamic consideration
