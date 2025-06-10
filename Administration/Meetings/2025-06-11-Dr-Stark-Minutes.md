@@ -1,15 +1,13 @@
 ---
-
 time_started: 2025-06-11T15:30:00-05
 time_adjourned: unknown
-location: Virtual
-group: Special_Group
+location: virtual
+group: special_group
 doc_type: minutes
-
 ---
 
-# 2025-06-11-Dr-Stark-Minutes
 **Solar Knights Racing Chapter at The University of Central Florida**
+# Meeting with Dr. Stark Minutes
 ## Meeting Started
 {YYYY-MM-DD}T{HH-MM-SS}{+or- from UTC}{HH}
 {location}
