@@ -1,7 +1,7 @@
 ---
 
-time_started: {YYYY-MM-DD}T{HH-MM-SS}{+or- from UTC}{HH}
-time_adjourned: {YYYY-MM-DD}T{HH-MM-SS}{+or- from UTC}{HH}
+time_started: 2025-06-11T15:30:00-05
+time_adjourned: unknown
 location: Virtual
 group: Special_Group
 doc_type: minutes
