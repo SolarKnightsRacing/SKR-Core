@@ -1,3 +1,10 @@
+---
+time_started: 2025-03-25
+time_adjourned: 2025-03-25
+location: unknown
+group: general_body
+doc_type: notes
+---
 TOC:
 - 501(c)3
 - Website
