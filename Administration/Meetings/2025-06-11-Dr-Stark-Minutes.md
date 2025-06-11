@@ -1,6 +1,6 @@
 ---
-time_started: 2025-06-11T15:30:00-05
-time_adjourned: unknown
+time_started: RESCHEDULED
+time_adjourned: RESCHEDULED
 location: virtual
 group: special_group
 doc_type: minutes
@@ -9,8 +9,8 @@ doc_type: minutes
 **Solar Knights Racing Chapter at The University of Central Florida**
 # Meeting with Dr. Stark Minutes
 ## Meeting Started
-{YYYY-MM-DD}T{HH-MM-SS}{+or- from UTC}{HH}
-{location}
+RESCHEDULED
+Virtual
 - present: 
 	- 
 - alumni present: 
@@ -27,7 +27,7 @@ doc_type: minutes
 ## Background on Dr. Stark
 - Academic Dean, Center for Computer and Engineering Technology at Seminole State College
 - Professor and Program Manager for Networking and Information Security (SSC)
-- Barbara Miller Automotive Training Center at SSC
+- Director of Barbara Miller Automotive Training Center at SSC
 - Wants us to race couches or something. Idrk what it is but we're going to win.
 
 ## About us
@@ -48,4 +48,4 @@ Our status in regards to design:
 !TODO
 
 ## Meeting Adjourned
-{YYYY-MM-DD}T{HH-MM-SS}{+or- from UTC}{HH}
+2025-06-11T15:30:00-05
