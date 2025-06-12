@@ -1,14 +1,14 @@
 Quantity,Part Number,Description,MPN,Vendor link,Unit Cost,Shipping Cost,Note
 ,,ASM_Chassis,,,,,
-1,Sol-Ch-1000-1,WLD_Chassis,none,none,$0.00,$0.00,none
+1,Sol-Ch-1000-1,WLD_Chassis,none,none,$0.00 ,$0.00 ,none
 ,,PRT_BellyPan,,,,,
 ,,ASM_Canopy,,,,,
 ,,,,,,,
 ,,,,,,,
-1,Sol-El-2000-0,ASM_Battery,none,none,$0.00,$0.00,none
-1,Sol-El-2100-0,ASM_String,none,none,$0.00,$0.00,none
-1,Sol-El-2110-0,ASM_Module,none,none,$0.00,$0.00,none
-1,Sol-El-2110-1,COTS_Cell_18650,none,none,$0.00,$0.00,none
+1,Sol-El-2000-0,ASM_Battery,none,none,$0.00 ,$0.00 ,none
+1,Sol-El-2100-0,ASM_String,none,none,$0.00 ,$0.00 ,none
+1,Sol-El-2110-0,ASM_Module,none,none,$0.00 ,$0.00 ,none
+1,Sol-El-2110-1,COTS_Cell_18650,none,none,$0.00 ,$0.00 ,none
 ,,COTS_BMS_Orion_24,,,,,
 ,,COTS_HMI,,,,,
 ,,ASM_PCM,,,,,
@@ -31,10 +31,11 @@ Quantity,Part Number,Description,MPN,Vendor link,Unit Cost,Shipping Cost,Note
 ,,COTS_LED_TailLight,,,,,
 ,,COTS_LED_BrakeLight,,,,,
 ,,COTS_LED_BPSFaultIndicator,,,,,
+,,COTS_Battery_Secondary_12v,,,,,
 ,,COTS_Camera,,,,,
 ,,,,,,,
-1,Sol-Er-1000-0,ASM_SteeringWheel,none,none,$0.00,$0.00,none
-1,Sol-Er-1000-1,PRT_SteeringWheel,none,none,$0.00,$0.00,none
+1,Sol-Er-1000-0,ASM_SteeringWheel,none,none,$0.00 ,$0.00 ,none
+1,Sol-Er-1000-1,PRT_SteeringWheel,none,none,$0.00 ,$0.00 ,none
 ,,ASM_Seat,,,,,
 ,,COTS_Seat,,,,,
 ,,PRT_Bracket_Seat,,,,,
@@ -48,7 +49,7 @@ Quantity,Part Number,Description,MPN,Vendor link,Unit Cost,Shipping Cost,Note
 ,,PRT_Enclosure_BallastBox,,,,,
 ,,PRT_BallastBag,,,,,
 ,,,,,,,
-1,Sol-Vd-1000-0,ASM_Master,none,none,$0.00,$0.00,none
+1,Sol-Vd-1000-0,ASM_Master,none,none,$0.00 ,$0.00 ,none
 ,,ASM_Suspension_FL,,,,,
 ,,PRT_ControlArm,,,,,
 ,,COTS_Coilover,,,,,
