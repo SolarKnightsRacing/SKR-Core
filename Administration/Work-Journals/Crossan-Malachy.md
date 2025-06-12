@@ -13,12 +13,14 @@ linkedin: www.linkedin.com/in/malachycrossan
 
 ## 2025-06-12
 - [ ] Help Jonah get started with MPPTs
-- [ ] Reorganize battery CAD (WIP)
+- [ ] Reorganize battery CAD
 - [ ] Create READMEs for each new part
+- [ ] Finish ADR0008&9
 
 ## 2025-06-11
 - [x] Meeting with Dr. Stark (RESCHEDULED)
 - [x] Made work journals
 - [x] Create master Bill of Materials
+- [x] Reorganize battery CAD (WIP)
 - [x] Decided on using 18650 Cells
 - [ ] Meeting Summary
