@@ -1,7 +1,7 @@
 ---
 firstname: Malachy
 lastname: Crossan
-phone: (321) 332-4383
+phone: 3213324383
 email: malachycrossan@gmail.com
 github: malachycrossan
 discord: malachy_c
