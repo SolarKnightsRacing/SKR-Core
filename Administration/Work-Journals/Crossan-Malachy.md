@@ -38,6 +38,9 @@ Name: Unlock
 Command: git lfs unlock $ARGS
 ```
 
+I was wrong when I said that the best way to create a new version is by copying the file. The better way is to lock the original file with lfs then open it so that solidworks doesn't open in that weird read only state. Then do whatever work needs to be done before you can determine the significance of the change (MAJOR, MNOR, PATCH).
+Then save that new version. commit and push the new file. then unlock the original.
+
 - [ ] Finish ADR0008&9
 - [ ] Help Jonah get started with MPPTs
 - [ ] Create READMEs for all parts
@@ -46,8 +49,6 @@ Command: git lfs unlock $ARGS
 Today was my first time using the new Part numbering, versioning, and naming schema. There was a bit of friction because I could only go off numbers rather than descriptions. I don't know if that was the best choice.
 
 I ported all of Naveen's battery CAD to the new schema. Then, I fixed the dimensions on his 18650 Cell.
-
-I determined that the best workflow for updating a part is to make a copy using your computer's file explorer and leave the name as " - copy" or whatever until you determine the significance of the change (MAJOR, MNOR, PATCH)
 
 I think I am going to redo some of the battery CAD. Naveen did a great job but some of the modeling isn't quite idiomatic and the assemblies lack any mates.
 
