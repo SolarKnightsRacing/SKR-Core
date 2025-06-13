@@ -10,12 +10,58 @@ linkedin: www.linkedin.com/in/malachycrossan
 ---
 
 # Crossan Malachy
+## Todo
+- [ ] I need to add DFM learning resources to the SKR-Resources repo 
+
+## 2025-06-13
+I want to self-manage our git repo next year. I'll try to do it through CECS. I opened an issue (#5) for it in SKR-Core.
+
+I was messing around with the git-gui that ships with windows and you can add custom tools. These tools can take in arguments like text, revisions, or files (if you select the diff). They show up in a drop down in the top bar but I haven't found a way to download or upload a configuration yet. These tools might be able to fill the gap in the git workflows for terminal-phobic folks.
+
+Double clicking on an path in the output window conveniently highlights the relative path needed for the lock and unlock commands. So, `[Show Locked / Show All] -> double click -> copy -> [Lock / Unlock]` is a pretty frictionless workflow.
+
+```
+Note: "Show Locked" command that displays all currently locked files. 
+Name: Show Locked
+Command: git lfs locks
+
+Note: "Show all" command that displays all files that can be locked
+Name: Show All
+Command: git lfs ls-files
+
+Note: "Lock" command that takes in a file path relative to the root dir (e.g. SKR-Core)
+Name: Lock
+Command: git lfs lock $ARGS
+
+Note: "Unlock" command that takes in a file path relative to the root direc (e.g. SKR-Core)
+Name: Unlock
+Command: git lfs unlock $ARGS
+```
+
+- [ ] Finish ADR0008&9
+- [ ] Help Jonah get started with MPPTs
+- [ ] Create READMEs for all parts
 
 ## 2025-06-12
-- [ ] Help Jonah get started with MPPTs
-- [ ] Reorganize battery CAD
-- [ ] Create READMEs for each new part
-- [ ] Finish ADR0008&9
+Today was my first time using the new Part numbering, versioning, and naming schema. There was a bit of friction because I could only go off numbers rather than descriptions. I don't know if that was the best choice.
+
+I ported all of Naveen's battery CAD to the new schema. Then, I fixed the dimensions on his 18650 Cell.
+
+I determined that the best workflow for updating a part is to make a copy using your computer's file explorer and leave the name as " - copy" or whatever until you determine the significance of the change (MAJOR, MNOR, PATCH)
+
+I think I am going to redo some of the battery CAD. Naveen did a great job but some of the modeling isn't quite idiomatic and the assemblies lack any mates.
+
+CAD Idiomatic design notes:
+- Parts should be centered about the origin
+- Parts should be bisected by primitive planes (Front, Right, Top)
+- Sketches should be fully defined
+- Sketches, Part, and Assemblies should be parametrically designed if possible
+- If parametric design isn't possible or practical should be designed in a way that is modifiable
+- Design For Manufacture (DFM) should always be on your mind
+
+
+- [x] Reorganize battery CAD
+- [x] Create READMEs for each new part
 
 ## 2025-06-11
 - [x] Meeting with Dr. Stark (RESCHEDULED)
@@ -23,4 +69,3 @@ linkedin: www.linkedin.com/in/malachycrossan
 - [x] Create master Bill of Materials
 - [x] Reorganize battery CAD (WIP)
 - [x] Decided on using 18650 Cells
-- [ ] Meeting Summary
