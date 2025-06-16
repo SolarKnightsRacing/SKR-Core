@@ -7,7 +7,7 @@ doc_type: minutes
 ---
 **Solar Knights Racing Chapter at The University of Central Florida**
 
-1. Chapter Moto:
+1. Chapter Motto:
 	1. Solar Knights Racing challenges current energy solutions in strenuous competition
 
 2. Meeting Started: 5:00 PM / Jan 24, 2025 / NSC117
@@ -31,7 +31,7 @@ doc_type: minutes
 	* Goals:
 		* At Solar Knights Racing, we strive to give students the chance to apply their skills and knowledge to a prominent challenge in long distance endurance racing in –solar powered vehicles. We allow students of all degrees, classes, and experience to participate in building UCF’s first competitive solar-powered electric endurance race car. This will give the participating students real world, hands-on engineering experience that will help propel them into their future careers.
 	* Personal Semester Goals:
-	* See the instagram and discord pop off
+	* See the Instagram and discord pop off
 	* Get sponsored by a company
 	* Begin fundraising
 	* Become 501.c3 Non-profit
@@ -48,10 +48,10 @@ doc_type: minutes
 		4. Do FL nonprofit when RSO is approved
 		5. When are we going to start designing (March/April?)
 		6. We need money!
-		7. Talk a lil bit about the ASC challenge w/picture
+		7. Talk a little bit about the ASC challenge w/picture
 		8. If interested in being a team lead, strongly recommend doing SolidWorks certification, they’re starting soon, also helps w internships
 	* Once we get some $ and create part of the car, it’ll go a lot faster, the beginning is the hardest
-		1. Create basic timeframe for fundraising and parts/designing: 
+		1. Create basic time frame for fundraising and parts/designing: 
 			1. Feb: Getting members / tabling ($ from membership fees)
 			2. March: Reaching out to companies for sponsorships, club merch (look professional)
 				1. Have a design we can show to companies to look legit
@@ -67,7 +67,7 @@ doc_type: minutes
 8. Reporter: Minutes: 5
 	* Discuss sponsorship with automotive companies (Toyota, BMW,... etc.)
 	* Re-enforce FL nonprofit for sponsorships.
-	* Potential Fundraising next month (Blaze pizza, chick fil a, zaxby’s, tijuana flats)
+	* Potential Fundraising next month (Blaze pizza, chick fil a, zaxby’s, Tijuana flats)
 	* Locally owned automotive shops, local bars, pet care business, relatives/fans, companies.
 	* Rich parents?
 	* Filming videos about our process.

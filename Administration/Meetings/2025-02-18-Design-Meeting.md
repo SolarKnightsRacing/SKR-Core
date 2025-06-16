@@ -32,7 +32,7 @@ doc_type: notes
 			- durability?
 	- Wheels
 		- Build
-			- Most teams use cnc milling process on aluminum
+			- Most teams use CNC milling process on aluminum
 			  aka expensive
 			- better suited for hub motors
 			- what other possible manufacturing methods are there?

@@ -12,8 +12,8 @@ TOC:
 	- Almost done
 - Chassis
 	- FEA
-	- iter 1
-	- iter 2
+	- Iteration 1
+	- Iteration 2
 - Seat
 	- Helpful for Chassis design
 	- UF seat not guaranteed
@@ -24,7 +24,7 @@ TOC:
 ## 501c3 and Nonprofit notes: 
 - Will talk to accountant to check (Connor knows a guy)
 - Whole point of registering as FL entity is to not have liability for any members
-- Bank guy (not too reliable) said that we did it correctly for the club: Setting up the EIN using Connors social and the name of the club - but I dont think this is a real entity?
+- Bank guy (not too reliable) said that we did it correctly for the club: Setting up the EIN using Connor's social and the name of the club - but I don't think this is a real entity?
  	- UCF says RSO's are not an entity of the University
 - BUT.. We need a Registered Florida nonprofit entity to get the 501c3
  	- https://www.irs.gov/charities-non-profits/before-applying-for-tax-exempt-status
@@ -61,16 +61,16 @@ TOC:
 ### Almost done
 - Vehicles
 	- Must populate
-- Vehicle specific wikis
+- Vehicle specific Wikis
 ## Chassis
 - 4130 Chromoly
  - FEA
 	 - How much deformation is necessary/safe
-- iter 1
+- Iteration 1
 	- Complete
-	- SW simulation
-- iter 2
-	- See iter 2 doc
+	- SolidWorks simulation
+- Iteration 2
+	- See Iteration 2 doc
 ## Ergo
 ### Ballast box
 - Low cg

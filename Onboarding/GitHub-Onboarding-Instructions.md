@@ -15,7 +15,7 @@
 12. Fill in your details.
 13. Click **Commit changes** (top-right) to save.
 14. To merge your changes into the main repository, open a pull request:
-    - Go to your forked repository’s homepage.
+    - Go to your forked repository’s home page.
     - Click **Contribute** → **Create Pull Request**.
     - Optionally, introduce yourself (major, interests, goals, etc.).
     - Click **Create Pull Request**.

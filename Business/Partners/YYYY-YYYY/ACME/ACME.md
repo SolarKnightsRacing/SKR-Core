@@ -2,7 +2,7 @@
 partner_name: ACME
 website: www.acme.com
 primary_contact_name: John Smith
-primary_contact_email: Johnsmith@example.com
+primary_contact_email: johnsmith@example.com
 primary_contact_phone: (555) 555-5555
 ---
 ## Current Partnership details

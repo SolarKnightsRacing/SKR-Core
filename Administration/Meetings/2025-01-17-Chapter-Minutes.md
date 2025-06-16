@@ -7,7 +7,7 @@ doc_type: minutes
 ---
 Solar Knights Racing Chapter at The University of Central Florida
 
-1. Chapter Moto:
+1. Chapter Motto:
 	1. The objectives of SKR is to “blah blah blah” (Make it up later)
 
 2. Meeting Started: (5:00 PM / Jan 17, 2025 / NSC 117)
@@ -26,7 +26,7 @@ Solar Knights Racing Chapter at The University of Central Florida
 		3. RSO Approval ETA
 		4. Outline of SKR Plan
 		5. Objectives of SKR
-		6. Chapter Moto Discussion  
+		6. Chapter Motto Discussion  
 
 6. Vice president: Minutes: 5
 	1. Pre-meeting questions
