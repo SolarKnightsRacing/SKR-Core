@@ -13,6 +13,13 @@ linkedin: www.linkedin.com/in/malachycrossan
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
 
+## 2025-06-19
+- [x] FSGP2025 announcement
+- [x] FSGP Registration Begun
+- [ ]  
+
+## 2025-06-18
+
 ## 2025-06-13
 Today Naveen and I worked on the CAD for the battery. I was trying to model the cell holding bracket in a way that was parametric and configurable but it proved to be not worth the time. Might just be a skill issue.
 
