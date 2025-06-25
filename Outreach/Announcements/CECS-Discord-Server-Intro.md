@@ -16,5 +16,6 @@ The ASC is a 1,500 to 2,000 mile race across the country. The ASC is the ultimat
 - **Electrical:** the Electrical team has two main responsibilities: Low Voltage and High Voltage. Low voltage consists of any electronic controls, lights, the driver screen, gauges, etc. High voltage handles the power electronics such as the Battery, the solar array, charging circuits, the electric motor, etc.
 
 ### Who Should Join
-We are in particular need of EE, CPE, and CS engineers right now but anyone and everyone who would be excited to contribute to a project like this should join! Mechanical, Aerospace, Electrical, Photonics, Business, etc. are all welcome and needed!
-TODO: add links
+We are in particular need of EE, CPE, and CS engineers right now but anyone and everyone who would be excited to contribute to a project like this should join the discord to start their journey! Mechanical, Aerospace, Electrical, Photonics, Business, etc. are all welcome and needed!
+
+https://linktr.ee/skr_ucf?utm_source=linktree_profile_share&ltsid=5fcfe8d8-6613-4ee2-b5e4-48d3089afa82
