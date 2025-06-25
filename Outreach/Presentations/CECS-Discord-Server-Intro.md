@@ -17,3 +17,4 @@ The ASC is a 1,500 to 2,000 mile race across the country. The ASC is the ultimat
 
 ### Who Should Join
 We are in particular need of EE, CPE, and CS engineers right now but anyone and everyone who would be excited to contribute to a project like this should join! Mechanical, Aerospace, Electrical, Photonics, Business, etc. are all welcome and needed!
+TODO: add links
