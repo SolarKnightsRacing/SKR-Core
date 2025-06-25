@@ -12,6 +12,13 @@ linkedin: www.linkedin.com/in/malachycrossan
 # Crossan Malachy
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
+## 2025-06-24
+- Communicated with Gail the IEF coordinator and requested emergency contact forms from team
+- Added FSGP docs to Repo
+- Edited Connors CECS announcement
+- [ ] (Waiting on review from Connor) send CECS server announcement 
+
+Omar spaghettafied the git history for 1_solaris last night so I need to fix that. We discussed making it more streamlined last night by implementing a feature that forces linear commit history, Auto-pull, and Auto-stage features somehow. I also told Naveen that the git feels like it is hurting more than it is helping right now so I will prioritize that in the next week.
 
 ## 2025-06-19
 - [x] FSGP2025 announcement
