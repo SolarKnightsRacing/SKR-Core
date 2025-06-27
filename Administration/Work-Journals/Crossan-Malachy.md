@@ -13,6 +13,10 @@ linkedin: www.linkedin.com/in/malachycrossan
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
 
+## 2025-06-27
+- Drafted PVF and sent it to putnam
+- Uploaded the empty form and template to SKR-Core
+
 ## 2025-06-26
 - Messaged FSGP Coordinator
 - joined the CECS RSO Leadership discord
