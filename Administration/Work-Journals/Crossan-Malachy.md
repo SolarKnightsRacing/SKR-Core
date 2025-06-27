@@ -12,6 +12,29 @@ linkedin: www.linkedin.com/in/malachycrossan
 # Crossan Malachy
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
+
+## 2025-06-26
+- Messaged FSGP Coordinator
+- joined the CECS RSO Leadership discord
+- Talked to CECS about GitLab server. They said to go through advisor
+
+### Email from QS Motor
+- Email received from QS motor. Gave us engineering drawings and information about the motor.
+- [ ] Reply email QS motor
+  - Shipping information
+  - Ask for spare rotors
+  - talk to Adam about brakes
+
+### PVF
+I tried to get my Tuesday absence excused with my CS professor and I required a Program Verification Form (PVF). It is not that complicated. It just requires some information about the event and a signature from the faculty advisor (Dr. Putnam)
+
+### Discussed BPS with Nick
+Decided on using a micro-controller development board along with a custom pcb. The BPS should go within the battery enclosure. 
+
+## 2025-06-25
+- Design meeting
+- Azure revoked
+
 ## 2025-06-24
 - Communicated with Gail the IEF coordinator and requested emergency contact forms from team
 - Added FSGP docs to Repo
