@@ -14,6 +14,9 @@ linkedin: www.linkedin.com/in/malachycrossan
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
 
 ## 2025-07-04
+### PDM
+I looked into a bunch of different PDM softwares and I have determined that they are a bit overkill. I think if I set up the GitLab well we will be chilling.
+
 ### Updated meeting Schedule (subject to change)
 Design Meeting | Sunday    | 2:45pm - 7:00pm
 Design Meeting | Monday    | 4:30pm - 7:30pm
