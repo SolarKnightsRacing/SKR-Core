@@ -13,6 +13,15 @@ linkedin: www.linkedin.com/in/malachycrossan
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
 
+## 2025-07-04
+### Updated meeting Schedule (subject to change)
+Design Meeting | Sunday    | 2:45pm - 7:00pm
+Design Meeting | Monday    | 4:30pm - 7:30pm
+Design Meeting | Tuesday   | 4:00pm - 8:30pm
+General Body   | Wednesday | 4:30pm - 6:00pm
+Design Meeting | Wednesday | 6:00pm - 8:30pm
+Design Meeting | Thursday  | 4:00pm - 8:30pm
+
 ## 2025-06-27
 - Drafted PVF and sent it to putnam
 - Uploaded the empty form and template to SKR-Core
