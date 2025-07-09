@@ -12,6 +12,16 @@ linkedin: www.linkedin.com/in/malachycrossan
 # Crossan Malachy
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
+## 2025-07-06
+### Digital Ocean
+AI Generated steps: https://claude.ai/chat/3bdaa625-2f0f-4bfc-81ad-2bb5d8f05750 
+- GitLab droplet 4GB RAM, 2 vCPUs, 80GB SSD ($24/month)
+  - Ubuntu 22.04 LTS
+    - Atlanta Region (Lowest latency)
+  - SSH Keys for Auth
+    - Name: skr-gilab
+- Web droplet 2GB RAM, 1 vCPUs, 50GB SSD ($12/month)
+- Database droplet 2GB RAM, 1 vCPUs, 50GB SSD ($12/month)
 
 ## 2025-07-04
 ### PDM
