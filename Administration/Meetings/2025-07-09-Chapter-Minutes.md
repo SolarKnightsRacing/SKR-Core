@@ -62,16 +62,27 @@ Target sponsors:
 
 ##### Look for spaces that aren't being used
 ##### GoFundme
+##### New Meeting Schedule
+Design Meeting | Sunday    | 2:45pm - 6:00pm
+Design Meeting | Monday    | 4:30pm - 7:30pm
+Design Meeting | Tuesday   | 4:00pm - 8:30pm
+General Body   | Wednesday | 4:30pm - 6:00pm
+Design Meeting | Wednesday | 6:00pm - 8:30pm
+Design Meeting | Thursday  | 4:00pm - 8:30pm
 ##### Top Priorities
+- 501c3
+- sponsors
+- shop space
+- 
 #### Design
-##### 
-##### 
-##### 
-##### 
 ##### Top Priorities
+- ADRs for high level decisions
+- PVDRs due November-ish
 
 ## Meeting notes
-!TODO
+### Outreach
+Opening Knight
+kort@ucf.edu
 
 ## Meeting Adjourned
 2025-07-09T17:30:00-05
