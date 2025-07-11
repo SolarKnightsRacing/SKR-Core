@@ -12,11 +12,22 @@ linkedin: www.linkedin.com/in/malachycrossan
 # Crossan Malachy
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
+
 ## 2025-07-11
 ### Digital Ocean Virtual Machine (droplet)
 - Marketplace image called "Docker on Ubuntu 22.04"
 - Used a docker-compose.yaml file to set up gitlab
 - This video explains how to use nginx: https://youtu.be/BeafoOFxIcI?si=XNlmpyMof_q3ZMyF
+- Installed nginx via apt package manager
+- Installed certbot via snap package manager
+- created nginx configuration
+- sim-linked from available-sites to enabled-sites
+- `nginx -t` looks all good
+- `nginx -s reload`
+- now git.solarknightsracing.org redirects to gitlab and root (aka @ (aka solarknightsracing.org)) will redirect to the website
+
+### GitLab setup
+Now begins the long process of configuring gitlab and then moving all of the old files and documentation over.
 
 
 ## 2025-07-10
