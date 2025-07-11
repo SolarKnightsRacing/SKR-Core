@@ -12,16 +12,41 @@ linkedin: www.linkedin.com/in/malachycrossan
 # Crossan Malachy
 ## Todo
 - [ ] I need to add DFM learning resources to the SKR-Resources repo 
+## 2025-07-11
+### Digital Ocean Virtual Machine (droplet)
+- Marketplace image called "Docker on Ubuntu 22.04"
+- Used a docker-compose.yaml file to set up gitlab
+- This video explains how to use nginx: https://youtu.be/BeafoOFxIcI?si=XNlmpyMof_q3ZMyF
+
+
+## 2025-07-10
+### Cloudflare domain registration
+I registered 'solarknightsracing.org' through cloudflare for 7.50 USD for one year. The price will increase to 10.25 USD for the years following. I chose cloudflare because it seemed like an established company to register through. I created the account with solarknightsracing@gmail.com.
+
+I plan to temporarily set solarknightsracing.org and www.solarknightsracing.org to redirect to the wix or squarespace site that aaron made.
+
+```
+# Domain:     solarknightsracing.org.
+# Exported:   2025-07-11 22:07:29
+solarknightsracing.org	3600	IN	SOA	nadia.ns.cloudflare.com. dns.cloudflare.com. 2050393824 10000 2400 604800 3600
+
+# NS Records
+solarknightsracing.org.	86400	IN	NS	nadia.ns.cloudflare.com.
+solarknightsracing.org.	86400	IN	NS	piotr.ns.cloudflare.com.
+
+# A Records
+finance.solarknightsracing.org.	1	IN	A	134.199.192.110 ; cf_tags=cf-proxied:true
+git.solarknightsracing.org.	1	IN	A	134.199.192.110 ; cf_tags=cf-proxied:true
+solarknightsracing.org.	1	IN	A	134.199.192.110 ; cf_tags=cf-proxied:true
+www.solarknightsracing.org.	1	IN	A	134.199.192.110 ; cf_tags=cf-proxied:true
+```
+
+### Digital Ocean
+Ubuntu droplet for GitLab server, big capital instance, Website, and cloud storage
+
+
 ## 2025-07-06
 ### Digital Ocean
-AI Generated steps: https://claude.ai/chat/3bdaa625-2f0f-4bfc-81ad-2bb5d8f05750 
-- GitLab droplet 4GB RAM, 2 vCPUs, 80GB SSD ($24/month)
-  - Ubuntu 22.04 LTS
-    - Atlanta Region (Lowest latency)
-  - SSH Keys for Auth
-    - Name: skr-gilab
-- Web droplet 2GB RAM, 1 vCPUs, 50GB SSD ($12/month)
-- Database droplet 2GB RAM, 1 vCPUs, 50GB SSD ($12/month)
 
 ## 2025-07-04
 ### PDM
